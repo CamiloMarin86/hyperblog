@@ -1,2 +1,3 @@
 Este archivo  contiene historia.
-Algunos datos personales, de su vida.
+Algunos datos personales. 
+adicion 1.  
