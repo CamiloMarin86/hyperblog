@@ -6,6 +6,15 @@ body
 
 }
 
+
+#cabecera
+{
+    background:  #88F ;
+    color : white;
+
+    padding: 0.5em;
+}
+
 #contenedor
 {
     width: 70%;
